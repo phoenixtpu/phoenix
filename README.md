@@ -29,6 +29,8 @@ Phoenix is a **closed-source** engine. However, for originality and integrity ve
 
 ### **Infos**
 
-Author: Matheus (magyn)
-Name: Phoenix
-Version: 5
+**Author:** Matheus (magyn)
+
+**Name:** Phoenix
+
+**Version:** 5
